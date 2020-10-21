@@ -8,3 +8,5 @@
 用户名、密码：
 - Rabbit 加密结果：`U2FsdGVkX182+BRkb+CRFxtdlNlQGvDJFTh57ufGKd/dz142YnXoap8jRWaNuw==`
   - 秘钥为 [**@hao276843248**](https://github.com/hao276843248) 真名拼音小写
+
+![比赛结果](./images/match-res.png)
