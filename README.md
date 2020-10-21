@@ -4,4 +4,4 @@
 
 [题站](http://match.yuanrenxue.com)
 
-用户名、密码的 Rabbit 加密结果（秘钥为 [**@hao276843248**](https://github.com/hao276843248) 名字拼音小写）：U2FsdGVkX1/wKhUZ/G4xLtSf/FyimmNYEPx3tBRIFJBjroloIVdbuLesQZMFO4cztZI1
+用户名、密码的 Rabbit 加密结果（秘钥为 [**@hao276843248**](https://github.com/hao276843248) 名字拼音小写）：`U2FsdGVkX1/wKhUZ/G4xLtSf/FyimmNYEPx3tBRIFJBjroloIVdbuLesQZMFO4cztZI1`
